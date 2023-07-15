@@ -1,4 +1,4 @@
-# MyNFT Contract Documentation
+# MyNFT Contract
 
 ## Overview
 
